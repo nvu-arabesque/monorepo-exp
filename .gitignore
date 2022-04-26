@@ -187,4 +187,4 @@ static
 *.gpg
 
 # bazel output
-.bazel-*
+bazel-*
